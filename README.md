@@ -1,5 +1,4 @@
 ## YUJIN JEONG
-![뚱이](https://user-images.githubusercontent.com/87961179/127284242-199db1a0-583e-4518-9a98-cfda67437b27.jpg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmericanoJelly&&show_icons=true&theme=buefy)
 
