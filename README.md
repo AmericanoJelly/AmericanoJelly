@@ -6,7 +6,7 @@
   
   </div>
 
-<h3>🔥Stack🔥</h3>
+<h3 align ="center">🔥Stack🔥</h3>
 
 <div align ="center">   
   
