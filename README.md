@@ -1,4 +1,4 @@
- <h1>YUJIN JEONG<h1>
+ <h2>YUJIN JEONG<h2>
  
  <div align ="center">
     
