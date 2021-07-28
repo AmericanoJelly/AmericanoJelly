@@ -4,7 +4,7 @@
     
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmericanoJelly&&show_icons=true&theme=buefy)
 
-<h3 align="center">🔥Stack🔥</h3>
+<h3>🔥Stack🔥</h3>
 
 
   
