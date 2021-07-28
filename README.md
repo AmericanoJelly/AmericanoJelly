@@ -1,7 +1,9 @@
  <h1>YUJIN JEONG<h1>
   
   <div align ="center">
+   
     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmericanoJelly&&show_icons=true&theme=buefy)
+   
   </div>
   
 <h3 align="center">🔥Stack🔥</h3>
