@@ -9,7 +9,7 @@
   </div>
 
 <h3 align ="center">🔥Stack🔥</h3>
- <p>(마스터할 예정😎😎)</p>
+ <p align ="center">(마스터할 예정😎😎)</p>
 
 
 <div align ="center">   
