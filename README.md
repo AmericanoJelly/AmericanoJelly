@@ -3,7 +3,6 @@
  <h1 align ="center">YUJIN JEONG<h1>
  
  <div align ="center">  
-  <p>깃린이입니다.</p>
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmericanoJelly&&show_icons=true&theme=buefy)
   </div>
 
@@ -18,4 +17,7 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 </div>
+ 
+ 
+  <p>깃허브 공부중...(깃린이입니다)</p>
 
