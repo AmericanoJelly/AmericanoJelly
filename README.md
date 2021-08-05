@@ -23,5 +23,6 @@
  
   <p align ="center">깃허브 공부중...(깃린이입니다)</p>
  
- <href http://xn--jk1by89ahsau6l.com/ />
+ 정담은청 리모델링중
+ http://xn--jk1by89ahsau6l.com/
 
