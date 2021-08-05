@@ -1,7 +1,7 @@
 
 
  <h1 align ="center">YUJIN JEONG<h1>
- <b align ="center">깃린이입니다.</b>
+ <p>깃린이입니다.</p>
  <div align ="center">
     
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmericanoJelly&&show_icons=true&theme=buefy)
